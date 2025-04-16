@@ -18,3 +18,10 @@ Assignement-03: Folder contains two files named as Task01.py and Task02.py
 Task01.py - Define a function factorial, to calculate the value of factorial for given integer N
 
 Task02.py - Use math librarry and calculate sqrt, log and sine for given number
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+Assignment-04: Folder contains two files named as Task01.py and Task02.py
+Task01.py - Read a file and display the text line by line.
+
+Task02.py - Get input from the user and append the data into output.txt file
+---------------------------------------------------------------------------------------------------------------------------------------------
