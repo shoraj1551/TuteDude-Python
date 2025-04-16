@@ -21,7 +21,18 @@ Task02.py - Use math librarry and calculate sqrt, log and sine for given number
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 Assignment-04: Folder contains two files named as Task01.py and Task02.py
+
 Task01.py - Read a file and display the text line by line.
 
 Task02.py - Get input from the user and append the data into output.txt file
+
 ---------------------------------------------------------------------------------------------------------------------------------------------
+Assignment-05: Folder contains two files named as Task01.py and Task02.py
+
+Task01.py - Check the students marks in given dictonary
+
+Task02.py - Create a list of elements, get first 5 value and reverse it
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+Assignment-05: Folder contains two files named as Task01.py and Task02.py
+
